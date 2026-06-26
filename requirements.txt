@@ -1,0 +1,8 @@
+tensorflow
+keras
+numpy
+matplotlib
+pandas
+seaborn
+scikit-learn
+Pillow
